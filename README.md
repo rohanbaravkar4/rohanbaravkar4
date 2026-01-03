@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rohan Baravkar, having electrical engineering and industrial automation experience of 7 years. PLC, HMI and SCADA programming. 
+- 👋 Hi, I’m Rohan Baravkar, having electrical engineering and industrial automation experience of 10 years. PLC, HMI, SCADA and Python programming. 
 - 👀 I’m currently interested in Robotics, machine learning and AI projects, with Python, Matlab or Go platforms.
-- 🌱 I’m currently learning Matlab, Go Languages. 
-- 💞️ I’m looking to collaborate on Robotics/ AI projects based on Python or Matlab. Plus PLC software development projects based on TWINCAT 3. 
+- 🌱 I’m currently learning Energy and Data center world. 
+- 💞️ I’m looking to collaborate on Digital Twins, Edge AI, Smart Grid Automation projects based on Python or Matlab. 
 - 📫 How to reach me - www.linkedin.com/in/rohanbaravkar
 
 <!---
